@@ -17,7 +17,7 @@
 ### Investment Engineering
   - portfolio optimization
   - quantitative analysis
-  - hypothesis testing
+  - hypothesis testing and execution
 
 ### Computer Science
   - Python, C/C++, SQL, Excel
