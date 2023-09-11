@@ -4,47 +4,51 @@
 - Award-winning research and startup
 
 ## SKILLS
-- Equity Research
+### Equity Research
   - modeling and valuation techniques
   - buy-side and sell-side
   - data analysis and visualization
-- Business Development
+### Business Development
   - problem-solving
   - scope and resource management
   - communication and presentation
-- Computer Science
+### Investment Engineering
+  - portfolio optimization
+  - quantitative analysis
+  - hypothesis testing
+### Computer Science
   - Python, C/C++, SQL, Excel
   - pattern recognition
   - machine learning
 
 ## EDUCATION
-- **Swarthmore College**
-  - Expected Graduation: May 2024
-  - Double major in Computer Science and Economics
-  - Coursework
-    - Data Structures and Algorithms
-    - Computer Systems
-    - Software Engineering
-    - Parallel and Distributed Computing
-    - Linear Algebra
-    - Multivariable Calculus
-    - Probability
-    - Real Analysis
-    - Econometrics
-    - Finance
-    - Logic
-- **University of Oxford**
-  - Worcester College, Sep 2022 - Jun 2023
-  - Coursework
-    - Models of Computation
-    - Databases
-    - Artificial Intelligence
-    - Game Theory
-    - Computational Game Theory
-    - Money and Banking
-- **SAT: 1590**
-  - Reading & Writing: 790
-  - Math: 800
+### Swarthmore College
+- Expected Graduation: May 2024
+- Double major in Computer Science and Economics
+- Coursework
+  - Data Structures and Algorithms
+  - Computer Systems
+  - Software Engineering
+  - Parallel and Distributed Computing
+  - Linear Algebra
+  - Multivariable Calculus
+  - Probability
+  - Real Analysis
+  - Econometrics
+  - Finance
+  - Logic
+### University of Oxford
+- Worcester College, Sep 2022 - Jun 2023
+- Coursework
+  - Models of Computation
+  - Databases
+  - Artificial Intelligence
+  - Game Theory
+  - Computational Game Theory
+  - Money and Banking
+### SAT: 1590
+- Reading & Writing: 790
+- Math: 800
 
 ## EXPERIENCES
 ### Equity Research Associate, SVB Securities
@@ -80,3 +84,4 @@
 ## INTERESTS
 - Varsity teams: Debate, Golf, Badminton, Rowing
 - 8-time nationwide junior golf champion in Canada, Royal Conservatory of Music level 10 concert pianist
+
