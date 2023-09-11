@@ -88,5 +88,7 @@
 
 ## INTERESTS
 - Varsity teams: Debate, Golf, Badminton, Rowing
-- 8-time nationwide junior golf champion in Canada, Royal Conservatory of Music level 10 concert pianist
+- 8-time nationwide junior golf champion in Canada
+- Royal Conservatory of Music level 10 concert pianist
+- The youngest 2 Dan Go player in Beijing at 6
 
