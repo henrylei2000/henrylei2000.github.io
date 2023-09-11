@@ -1,5 +1,5 @@
 # HENRY LEI
-- CS + Econ at Swarthmore and Oxford, GPA 3.9/4.0
+- CS + Econ at Swarthmore and Oxford with a GPA 3.9/4.0
 - Working experiences at T. Rowe Price and SVB Securities
 - Award-winning research and startup
 
@@ -38,7 +38,6 @@
   - Probability
   - Real Analysis
   - Econometrics
-  - Finance
   - Logic
 
 ### University of Oxford
@@ -50,6 +49,8 @@
   - Game Theory
   - Computational Game Theory
   - Money and Banking
+  - Finance
+  - Development of the World Economy Since 1800
 
 ### SAT: 1590
 - Reading & Writing: 790
