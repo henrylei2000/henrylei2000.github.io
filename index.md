@@ -8,14 +8,17 @@
   - modeling and valuation techniques
   - buy-side and sell-side
   - data analysis and visualization
+
 ### Business Development
   - problem-solving
   - scope and resource management
   - communication and presentation
+
 ### Investment Engineering
   - portfolio optimization
   - quantitative analysis
   - hypothesis testing
+
 ### Computer Science
   - Python, C/C++, SQL, Excel
   - pattern recognition
@@ -37,6 +40,7 @@
   - Econometrics
   - Finance
   - Logic
+
 ### University of Oxford
 - Worcester College, Sep 2022 - Jun 2023
 - Coursework
@@ -46,6 +50,7 @@
   - Game Theory
   - Computational Game Theory
   - Money and Banking
+
 ### SAT: 1590
 - Reading & Writing: 790
 - Math: 800
