@@ -1,12 +1,21 @@
 # HENRY LEI
-- GPA 3.9/4.0, CS + Econ at Swarthmore and Oxford
-- Internships at T. Rowe Price and SVB Securities
+- CS + Econ at Swarthmore and Oxford, GPA 3.9/4.0
+- Working experiences at T. Rowe Price and SVB Securities
 - Award-winning research and startup
 
 ## SKILLS
-- Equity Research: modeling and valuation techniques, buy-side and sell-side, data analysis and visualization
-- Business Development: problem-solving, scope and resource management, communication and presentation
-- Computer Science: Python, C/C++, SQL, Excel, pattern recognition, machine learning
+- Equity Research
+  - modeling and valuation techniques
+  - buy-side and sell-side
+  - data analysis and visualization
+- Business Development
+  - problem-solving
+  - scope and resource management
+  - communication and presentation
+- Computer Science
+  - Python, C/C++, SQL, Excel
+  - pattern recognition
+  - machine learning
 
 ## EDUCATION
 - **Swarthmore College**
@@ -38,14 +47,14 @@
   - Math: 800
 
 ## EXPERIENCES
-### Equity Research Summer Associate, SVB Securities
+### Equity Research Associate, SVB Securities
 - Jun - Aug 2023, New York City, NY
 - Assembled and analyzed complex data to evaluate leading stocks within the e-commerce industry (Python/Excel)
 - Observed calls and interviews with company executives and industry leaders to develop sources of information in preparation for research notes, sector pieces, and market overviews (PowerPoint)
 - Monitored and synthesized news and events for biweekly client updates (Bloomberg)
 - _How do fluctuations in fuel prices for Amazon’s jet fleet affect its stock price?_
 
-### Equity Research Summer Analyst, T. Rowe Price
+### Equity Research Analyst, T. Rowe Price
 - Jun - Aug 2022, Baltimore, MD
 - Built and tuned three-statement financial models for forecasting and valuations (Python/Excel)
 - Assessed and analyzed the investment attractiveness of selected companies within an industry group (FactSet)
