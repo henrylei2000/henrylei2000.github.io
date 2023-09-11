@@ -53,8 +53,8 @@
   - Development of the World Economy Since 1800
 
 ### SAT: 1590
+- Math: 800 
 - Reading & Writing: 790
-- Math: 800
 
 ## EXPERIENCES
 ### Equity Research Associate, SVB Securities
