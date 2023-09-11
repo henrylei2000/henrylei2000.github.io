@@ -73,9 +73,10 @@
 
 ### Co-founder, ReneCycle
 - Nov 2020 - Sep 2021, Swarthmore, PA
-- Designed and built the mobile app for ReneCycle, a YCombinator finalist that creates a campus bikeshare service
-- Top undergrad prize at the 2020 Columbia University Venture Competition
-- Top prize at the 2021 UPenn Climate Ventures featuring over 200 teams
+- A YCombinator finalist that creates a campus bikeshare service
+- Top prize at the 2020 Columbia University Venture Competition
+- Top prize at the 2021 UPenn Climate Ventures featuring 200+ teams
+- Designed and built the mobile app (iOS/Android)
 - _How should we set pricing models that cater to different usage patterns?_
 
 ### Machine Learning Developer, Walden Local Meat
