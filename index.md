@@ -57,7 +57,7 @@
 - Reading & Writing: 790
 
 ## EXPERIENCES
-### Equity Research Associate, SVB Securities
+### Equity Research Associate (TMT), SVB Securities
 - Jun - Aug 2023, New York City, NY
 - Assembled and analyzed complex data to evaluate leading stocks within the e-commerce industry (Python/Excel)
 - Observed calls and interviews with company executives and industry leaders to develop sources of information in preparation for research notes, sector pieces, and market overviews (PowerPoint)
