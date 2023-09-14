@@ -93,8 +93,9 @@
 - _Did trading with China make the US cleaner?_
 
 ## INTERESTS
-- Varsity teams: Debate, Golf, Badminton, Rowing
+- NCAA Golf
 - 8-time nationwide junior golf champion in Canada
-- Royal Conservatory of Music level 10 concert pianist
+- Varsity Debate
+- Concert Pianist
 - The youngest 2 Dan Go player in Beijing at 6
 
