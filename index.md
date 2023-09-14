@@ -20,7 +20,7 @@
   - hypothesis testing and execution
 
 ### Computer Science
-  - Python, C/C++, SQL, Excel
+  - Python, C/C++, Java, SQL, Excel/VBA
   - pattern recognition
   - machine learning
 
