@@ -73,9 +73,9 @@
 
 ### Co-founder, ReneCycle
 - Nov 2020 - Sep 2021, Swarthmore, PA
-- A YCombinator finalist that creates a campus bikeshare service
-- Top prize at the 2020 Columbia University Venture Competition
-- Top prize at the 2021 UPenn Climate Ventures featuring 200+ teams
+- Founded a YCombinator finalist that creates a campus bikeshare service
+- Won the top prize at the 2020 Columbia University Venture Competition
+- Won the top prize at the 2021 UPenn Climate Ventures featuring 200+ teams
 - Designed and built the mobile app (iOS/Android)
 - _How should we set pricing models that cater to different usage patterns?_
 
