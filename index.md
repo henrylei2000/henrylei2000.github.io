@@ -1,6 +1,6 @@
 # HENRY LEI
 - CS + Econ at Swarthmore and Oxford with a GPA 3.9/4.0
-- Working experiences at T. Rowe Price and SVB Securities
+- Professional experiences at T. Rowe Price and SVB Securities
 - Award-winning research and startup
 
 ## SKILLS
