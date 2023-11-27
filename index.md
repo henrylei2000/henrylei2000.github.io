@@ -53,7 +53,7 @@
   - Development of the World Economy Since 1800
 
 ### SAT: 1590
-- Math: 800 
+- Math: 800
 - Reading & Writing: 790
 
 ## EXPERIENCES
@@ -93,9 +93,9 @@
 - _Did trading with China make the US cleaner?_
 
 ## INTERESTS
-- NCAA Golf
 - 8-time nationwide junior golf champion in Canada
-- Varsity Debate
-- Concert Pianist
-- The youngest 2 Dan Go player in Beijing at 6
-
+- NCAA golf
+- varsity debate
+- concert pianist
+- certified autism tutor for children
+- the youngest 2 Dan go player in Beijing at 6
