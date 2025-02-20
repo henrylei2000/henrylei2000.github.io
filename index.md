@@ -5,24 +5,24 @@
 
 ## SKILLS
 ### Equity Research
-  - modeling and valuation techniques
-  - buy-side and sell-side
-  - data analysis and visualization
+  - Modeling and valuation techniques
+  - Buy-side and sell-side
+  - Data analysis and visualization
 
 ### Business Development
-  - problem-solving
-  - scope and resource management
-  - communication and presentation
+  - Problem-solving
+  - Scope and resource management
+  - Communication and presentation
 
 ### Investment Engineering
-  - portfolio optimization
-  - quantitative analysis
-  - hypothesis testing and execution
+  - Portfolio optimization
+  - Quantitative analysis
+  - Hypothesis testing and execution
 
 ### Computer Science
   - Python, C/C++, Java, SQL, Excel/VBA
-  - data modeling 
-  - system design
+  - Data modeling 
+  - System design
 
 ## EXPERIENCES
 ### Equity Research Analyst (TMT), Pom United
@@ -99,7 +99,7 @@
 ## INTERESTS
 - 8-time nationwide junior golf champion in Canada
 - NCAA golf
-- varsity debate
-- concert pianist
-- certified tutor for autism kids
-- the youngest 2 Dan go player in Beijing at 6
+- Varsity debate
+- Concert pianist
+- Certified tutor for autism kids
+- The youngest 2 Dan go player in Beijing at 6
