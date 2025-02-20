@@ -46,16 +46,15 @@
 ### Co-founder, ReneCycle
 - Nov 2020 - Sep 2021, Swarthmore, PA
 - Founded a YCombinator finalist that creates a campus bikeshare service
-- Won the top prize at the 2020 Columbia University Venture Competition
 - Won the top prize at the 2021 UPenn Climate Ventures featuring 200+ teams
+- Won the top prize at the 2020 Columbia University Venture Competition
 - Designed and built the mobile app (iOS/Android)
 - _How should we set pricing models that cater to different usage patterns?_
 
 ### Machine Learning Developer, Walden Local Meat
 - Jun - Aug 2020, Boston, MA
-- Developed a proof of concept for a neural network classifier to identify "good" or "bad" meats combos to optimize packing strategy and increase customer satisfaction (Python/Pandas/Scikit-learn)
-- Agile Scrum software development methodology
-- Atlassian Jira and Confluence
+- Developed a neural network classifier to identify "good" or "bad" meats combos to optimize packing strategy (Python/Pandas/Scikit-learn)
+- Agile Scrum, Atlassian Jira, and Confluence
 - _How can we measure the qualities of "good" versus "bad" meats?_
 
 ### Macro Researcher, Swarthmore College
