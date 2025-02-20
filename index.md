@@ -1,6 +1,6 @@
 # HENRY LEI
-- CS + Econ from Swarthmore and Oxford with a GPA 3.9/4.0
-- Professional experiences at T. Rowe Price and SVB Securities
+- CS + Econ from Swarthmore and Oxford
+- Professional experiences at T. Rowe Price, SVB Securities, and Pom United
 - Award-winning research and startup
 
 ## SKILLS
@@ -46,8 +46,8 @@
 ### Co-founder, ReneCycle
 - Nov 2020 - Sep 2021, Swarthmore, PA
 - Founded a YCombinator finalist that creates a campus bikeshare service
-- Won the top prize at the 2021 UPenn Climate Ventures featuring 200+ teams
-- Won the top prize at the 2020 Columbia University Venture Competition
+- Won the top prize at the UPenn Climate Ventures featuring 200+ teams
+- Won the top prize at the Columbia University Venture Competition
 - Designed and built the mobile app (iOS/Android)
 - _How should we set pricing models that cater to different usage patterns?_
 
