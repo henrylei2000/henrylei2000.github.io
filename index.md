@@ -101,5 +101,5 @@
 - NCAA golf
 - varsity debate
 - concert pianist
-- certified autism tutor for children
+- certified tutor for autism kids
 - the youngest 2 Dan go player in Beijing at 6
