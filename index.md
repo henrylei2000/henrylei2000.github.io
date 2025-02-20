@@ -21,8 +21,8 @@
 
 ### Computer Science
   - Python, C/C++, Java, SQL, Excel/VBA
-  - pattern recognition
-  - machine learning
+  - data modeling 
+  - system design
 
 ## EXPERIENCES
 ### Equity Research Analyst (TMT), Pom United
