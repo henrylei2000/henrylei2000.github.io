@@ -53,7 +53,7 @@
 
 ### Machine Learning Developer, Walden Local Meat
 - Jun - Aug 2020, Boston, MA
-- Developed a neural network classifier to identify "good" or "bad" meats combos to optimize packing strategy (Python/Pandas/Scikit-learn)
+- Developed a neural network classifier to identify "good" or "bad" meats combos to optimize packing strategy (Pandas/Scikit-learn)
 - Agile Scrum, Atlassian Jira, and Confluence
 - _How can we measure the qualities of "good" versus "bad" meats?_
 
