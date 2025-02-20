@@ -27,7 +27,8 @@
 ## EXPERIENCES
 ### Equity Research Analyst (TMT), Pom United
 - May 2024 - Present, New York City, NY
-- _How to measure the performance of AI-driven models?_
+- Error analysis in AI-driven stock models
+- _How to effectively reduce lag in regime-switching models?_
 
 ### Equity Research Associate (TMT), SVB Securities
 - Jun - Aug 2023, New York City, NY
