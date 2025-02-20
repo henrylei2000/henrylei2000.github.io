@@ -66,7 +66,7 @@
 
 ## EDUCATION
 ### Swarthmore College
-- Expected Graduation: May 2024
+- Aug 2019 - May 2024
 - Double major in Computer Science and Economics
 - Coursework
   - Data Structures and Algorithms
